@@ -1,0 +1,6 @@
+{
+	"watch": ["test"],
+	"ext": "py",
+	"ignore": ["src/**/*.spec.ts"],
+	"exec": "python3 test/test.py"
+}
