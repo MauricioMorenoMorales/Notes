@@ -25,12 +25,32 @@ def main():
 		hora_peru = hora_seleccionada - 2 if hora_seleccionada - 1 >= 0 else hora_seleccionada + 22
 		hora_venezuela = hora_seleccionada - 1 if hora_seleccionada - 1 >= 0 else hora_seleccionada + 23
 		hora_bolivia = hora_seleccionada - 1 if hora_seleccionada - 1 >= 0 else hora_seleccionada + 23
-		hora_madrid = hora_seleccionada + 4 if hora_seleccionada + 4 <= 24 else hora_seleccionada  - 20
+		hora_madrid = hora_seleccionada + 4 if hora_seleccionada + 4 < 24 else hora_seleccionada  - 20
 		print(f"""
 	hora de chile:      {hora_seleccionada}:{minuto_seleccionado}
 	hora de madrid:     {hora_madrid}:{minuto_seleccionado}
 	hora de california: {hora_california}:{minuto_seleccionado}
 	hora de mexico:     {hora_mexico}:{minuto_seleccionado}
+	hora de guatemala:  {hora_guatemala}:{minuto_seleccionado}
+	hora de colombia:   {hora_colombia}:{minuto_seleccionado}
+	hora de peru:       {hora_peru}:{minuto_seleccionado}
+	hora de venezuela:  {hora_venezuela}:{minuto_seleccionado}
+	hora de bolivia:    {hora_bolivia}:{minuto_seleccionado}
+			""")
+	if(pais_seleccionado.lower() == "mexico" or pais_seleccionado.lower() == "méxico"):
+		hora_california = hora_seleccionada - 2 if hora_seleccionada - 2 >= 0 else hora_seleccionada + 22
+		hora_chile = hora_seleccionada + 3 if hora_seleccionada + 3 < 24 else hora_seleccionada - 21
+		hora_guatemala = hora_seleccionada
+		hora_colombia = hora_seleccionada + 1 if hora_seleccionada + 1 < 24 else hora_seleccionada - 23
+		hora_peru = hora_seleccionada + 1 if hora_seleccionada + 1 < 24 else hora_seleccionada - 23
+		hora_venezuela = hora_seleccionada + 2 if hora_seleccionada + 2 < 24 else hora_seleccionada - 22
+		hora_bolivia = hora_seleccionada + 2 if hora_seleccionada + 2 < 24 else hora_seleccionada - 22
+		hora_madrid = hora_seleccionada + 7 if hora_seleccionada + 7 < 24 else hora_seleccionada  - 17
+		print(f"""
+	hora de chile:      {hora_chile}:{minuto_seleccionado}
+	hora de madrid:     {hora_madrid}:{minuto_seleccionado}
+	hora de california: {hora_california}:{minuto_seleccionado}
+	hora de mexico:     {hora_seleccionada}:{minuto_seleccionado}
 	hora de guatemala:  {hora_guatemala}:{minuto_seleccionado}
 	hora de colombia:   {hora_colombia}:{minuto_seleccionado}
 	hora de peru:       {hora_peru}:{minuto_seleccionado}
