@@ -1,0 +1,1 @@
+[This is a link test](../../Phylosophy/Idealism/Idealism_description.md)
