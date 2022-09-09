@@ -16,6 +16,18 @@ El principal error del materialismo es que los <corregir> valores cuantitativos<
 
 El materialismo lo que falla es que los valores
 
+<h2> Dependencias materialismo
+Para que los postulados del materialismo sean ciertos se requiere que las 
+percepciones de nuestra mente correspondan con la materia, la materia es lo que
+vemos si no no
+
+<REPOSITION> Objetive (Cuantitative) Subjetive (Cuantitative)
+
+Llamamos algun fenomeno o caracteristica como objetiva cuando esta no depende
+solamente de nuestra mente
+
+
 
 >> Buscar que tipo de dato son los datos cualitativos y cuantitativos
 >> Conocer la correlacion entre materia y percepcion
+>> Pensar por que el materialimsmo requiere que aquello que percibimos sea el objeto en si
