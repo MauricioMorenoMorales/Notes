@@ -27,3 +27,12 @@ Oleg
 ## Vladimir el grande
 ## Svatopolk I de kiev
 ## Yaroslav el sabio
+
+## Kerenski
+Derrocamiento de los zares
+
+## Lenin
+
+
+## Jruschev
+Niños del vigesimo congreso del partido
