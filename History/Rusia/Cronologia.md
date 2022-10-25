@@ -72,7 +72,13 @@ Oleg
 	>> Guerra contra cumanos
 
 ## Kerenski
-Derrocamiento de los zares
+	Derrocamiento de los zares
+	Era bailarin
+	Defendia a campesinos que se amotinaban 
+	Miembro partido socialista revolucionario
+	Rechazado por haber empezado la revolucion rusa.
+		Las enfermeras rusas no querian atenderlo
+		la iglesia ortodoxa no queria aceptarlo
 
 ## Lenin
 
