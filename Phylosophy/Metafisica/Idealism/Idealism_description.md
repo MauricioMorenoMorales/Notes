@@ -3,6 +3,10 @@ Realmente existe algo afuera algo independiente e inmutable por nuestros estados
 
 >>> INSERTAR, keith ward atheism Descripcion la materia dentro del materialismo no es lo que crees que es
 
+Nosotros vivimos en un mundo de cualidades, colores olores sensaciones, anteriormente usabamos las cantidades para describir las cualidades
+el problema es que ahora estamos tomando esas cualidades como efectos secundarios de las cantidades lo cual inevitablemente deriva en el "hard problem of consciousness"
+que explica que no hay manera en que las cantidades puedan describir o generar cualidades
+
 >>>INSERTAR VIDEO "Science and consciousness panel at sages and scientist minute 3:30"
 >>>INSERTAR VIDEO "Science and consciousness panel at sages and scientist minute 29:30"
 
